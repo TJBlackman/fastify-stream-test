@@ -12,7 +12,8 @@ This is a demo to try to get Fastify to return a streamed response from a fetch 
 
 ### StackOverflow
 
-Here's the SO question:
+Here's the SO question:\
+https://stackoverflow.com/questions/77856172/return-fetch-stream-from-fastify
 
 ### Fastify Docs
 
